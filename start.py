@@ -12,9 +12,6 @@ from app.configuration import ConfigurationManager
 from app.secrets import SecretManager
 from app.websocket import ConnectionManager
 
-# Project
-# https://github.com/users/Scobiform/projects/7/views/1
-
 # Load environment variables from .env file
 load_dotenv() 
 
